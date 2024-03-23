@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>bmi_calculator</title>
 </head>
 <body>
     <h1>Flutter project to Calculate Body Mass Index (BMI)</h1>
